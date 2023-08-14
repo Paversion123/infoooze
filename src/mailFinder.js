@@ -28,6 +28,7 @@ async function mailfinder(username, showHome = false) {
     'googlemail.com',
     'yandex.com',
     'aol.com',
+    aph.gov.com',
   ];
 
   const path = `${process.cwd()}/results/infoooze_mailFinder_${currentTimeStamp()}.txt`;
